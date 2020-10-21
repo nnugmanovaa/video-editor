@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "my-font";
+  src: url("fonts/my-font1.woff2") format('woff2');
+}
+
+#title{
+  font-family: "my-font";
+  color: black;
+  text-align: center;
+  margin: 50px 0px;
+}
